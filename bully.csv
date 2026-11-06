@@ -1,0 +1,6 @@
+node_id,is_alive,is_current_coordinator
+1,True,False
+2,True,False
+3,True,False
+4,True,False
+5,False,True

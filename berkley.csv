@@ -1,0 +1,5 @@
+node_id,clock_time_sec,is_faulty
+N1,100,False
+N2,104,False
+N3,98,False
+N4,120,True

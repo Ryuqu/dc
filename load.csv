@@ -1,0 +1,7 @@
+job_id,compute_units,assigned_worker,status
+J1,5,,PENDING
+J2,3,,PENDING
+J3,8,,PENDING
+J4,2,,PENDING
+J5,6,,PENDING
+J6,4,,PENDING

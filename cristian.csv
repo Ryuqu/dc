@@ -1,0 +1,4 @@
+client_id,t0_send_ms,t_server_ms,t1_recv_ms
+C1,1000,1500,1200
+C2,2000,2500,2200
+C3,3000,3500,3240
